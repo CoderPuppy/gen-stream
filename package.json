@@ -1,0 +1,10 @@
+{
+	"name": "gen-stream",
+	"version": "0.0.0",
+	"description": "Pull streams with generators",
+	"author": "CoderPuppy",
+	"dependencies": {
+		"cooperator": "^0.0.5",
+		"pull-stream": "^2.23.0"
+	}
+}
