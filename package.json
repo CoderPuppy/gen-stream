@@ -3,8 +3,10 @@
 	"version": "0.0.0",
 	"description": "Pull streams with generators",
 	"author": "CoderPuppy",
+	"repository": "git://github.com/CoderPuppy/gen-stream.git",
+	"homepage": "https://github.com/CoderPuppy/gen-stream",
 	"dependencies": {
-		"cooperator": "^0.0.5",
+		"cooperator": "^0.0.6",
 		"pull-stream": "^2.23.0"
 	}
 }
