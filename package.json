@@ -1,6 +1,6 @@
 {
 	"name": "gen-stream",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Pull streams with generators",
 	"author": "CoderPuppy",
 	"repository": "git://github.com/CoderPuppy/gen-stream.git",
